@@ -1,0 +1,11 @@
+barra_navegacion: #6da0a5
+nav: #FFF
+modoOscuroClaro: #FFF
+cuerpo: #a19d9d
+footer: #6da0a5
+li.slider: background=white, color=black
+ul.aptitudes: #6a6a6a
+strong.idioma: background=#6da0a5, border=#a1a1a1
+strong.programacion: #6da0a5
+h4.data: #6da0a5
+
